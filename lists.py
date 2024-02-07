@@ -12,8 +12,10 @@ print(students)
 students.append("messi")
 print(students)
 students.insert(1,"ezra")
-print(students)
 
+students.insert(2,"yeya")
+
+print(students)
 
 
 
